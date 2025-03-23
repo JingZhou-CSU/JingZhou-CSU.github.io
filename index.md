@@ -21,14 +21,16 @@ I am a graduate student in the Department of Engineering at the University of Ca
 - Cyber-Physical Security of Network Control Systems
 - Advanced Alarm Management in Process Industry
 
-My current research focuses on 
-
 ---
 
-## News and Updates
+## Educational Background
 
-- **June 2024**：
-<br>
+- **2011.09 -- 2015.06**: Bachelors' Degree, from Mechanical Engineering, Huazhong University of Science and Technology.
+- **2015.09 -- 2018.06**: Master' Degree, from College of Engineering, Peking University (Supervisor: Prof. Ying Yang).
+- **2018.09 -- 2022.08**: Doctoral' Degree, from Department of Electrical and Computer Engineering, University of Alberta (Supervisor: Prof. Tongwen Chen).
+
+## Work Experiences
+
 
 
 
