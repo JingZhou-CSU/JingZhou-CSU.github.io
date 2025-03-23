@@ -15,9 +15,9 @@ owner:
   # twitter: lancecai2002
   # github: GuangLun2000
   # linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   #bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
@@ -36,14 +36,16 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About
+    url: /
+  - title: Research
     url: /
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+  #  url: /hobbies/
   # - title: Startups
     # url: /startups/
   - title: Blogs
