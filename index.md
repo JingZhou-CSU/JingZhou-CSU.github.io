@@ -8,8 +8,7 @@ I obtained my Ph.D degree in control systems from the University of Alberta, Can
 <img src="{{ 'images/jingzhouGroup.jpeg' | relative_url }}" class="floatpic" style="width: 95%; 
     min-width: 250px;
     height: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    border-radius: 8px;">
 ---
 
 ## Research Interests
