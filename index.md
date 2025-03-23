@@ -2,9 +2,8 @@
 layout: page
 ---
 
-<img src="{{ 'images/jingzhouGroup.jpeg' | relative_url }}" class="floatpic" style="width: 60%; 
+<img src="{{ 'images/jingzhouGroup.jpeg' | relative_url }}" class="floatpic" style="width: 95%; 
     min-width: 250px;
-    max-width: 600px;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
