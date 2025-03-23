@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="{{ 'images/jingzhou.jpeg' | relative_url }}" class="floatpic">
+<img src="{{ 'images/jingzhouGroup.jpeg' | relative_url }}" class="floatpic">
 
 This is **Jing Zhou (周晶)**, currently a researcher in the School of Automation, Central South University in China. 
 
