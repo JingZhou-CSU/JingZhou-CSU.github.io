@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://caihanlin.com/jingzhou.jpeg" class="floatpic">
+<img src="/Users/jingzhou/Documents/GitHub/JingZhou-CSU.github.io/images/jingzhou.jpeg" class="floatpic">
 
 This is **Jing Zhou (周晶)**, currently a professor in the School of Automation, Central South University in China. 
 
