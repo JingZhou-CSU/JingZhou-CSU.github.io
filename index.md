@@ -4,9 +4,9 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-This is **Jing Zhou (周晶)**.<br>
+This is **Jing Zhou (周晶)**, currently a professor in the School of Automation, Central South University, Changsha, China. 
 
-I am currently a researcher in the School of Automation, Central South University, Changsha, China. 
+I obtained my Ph.D degree in control systems from the University of Alberta, Canada, in 2022. From Sept. 2022 to July 2024, I was a postdoctoral fellow in the department of electrical and computer engineering at the University of Alberta. After holding a 6-month postdoctoral position in the department of biomedical engineering at City University of Hong Kong, I joined Central South University in March 2025. I was the awardee of the Excellent Young Scientists Fund (Overseas) in 2024. My research interests include cybersecurity, fault diagnosis, and industrial alarm systems.
 
 
 ---
